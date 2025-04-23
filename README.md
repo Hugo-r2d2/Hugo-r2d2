@@ -1,4 +1,4 @@
-#### Hi there, I'm Hugo Santos 👋
+### Hi there, I'm Hugo Santos 👋
 
 - 🎓 Undergraduate student in Systems Analysis and Development  
 - ⚙️ Passionate about Back-End Programming and Data Analysis  
