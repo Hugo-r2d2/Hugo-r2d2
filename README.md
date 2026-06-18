@@ -19,8 +19,7 @@
 
 ### 📊 GitHub Stats
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hugo-r2d2&show_icons=true&theme=dark) <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-r2d2&layout=compact&langs_count=7&theme=dark" />
-  [![GitHub Streak](https://github-readme-streak-stats-ten-sand.vercel.app?user=Hugo-r2d2&theme=dark&card_width=780)](https://git.io/streak-stats)
-
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Hugo-r2d2&theme=ocean-gradient)](https://git.io/streak-stats)
 
 ### 🌐 Social Media
 <div>
