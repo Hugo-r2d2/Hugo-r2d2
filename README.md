@@ -17,10 +17,6 @@
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </div>
 
-### 📊 GitHub Stats
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hugo-r2d2&show_icons=true&theme=dark) <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-r2d2&layout=compact&langs_count=7&theme=dark" />
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Hugo-r2d2&theme=ocean-gradient&locale=pt_BR&card_height=300)](https://git.io/streak-stats)
-
 ### 🌐 Social Media
 <div>
   <a href="" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
